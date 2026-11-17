@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="assets/banner.jpg" alt="Numerical Methods in Finance" width="100%">
+</p>
+
+# Numerical Methods in Finance
+
+
 # Numerical Methods in Finance
 
 **A comparative study of numerical stability, accuracy, convergence, and computational efficiency in financial applications.**
