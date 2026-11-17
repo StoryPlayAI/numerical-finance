@@ -4,9 +4,6 @@
 
 # Numerical Methods in Finance
 
-
-# Numerical Methods in Finance
-
 **A comparative study of numerical stability, accuracy, convergence, and computational efficiency in financial applications.**
 
 This project explores how different numerical methods behave when applied to common problems in financial mathematics. Rather than focusing only on obtaining a solution, it examines **when an algorithm is reliable, how accurate it is, and what it costs to compute**.
